@@ -94,7 +94,7 @@ npm run dev
 
 ### 📞 Contact Section
 
-![Contact](./screenshots/contact.png.png)
+![Contact](./screenshots/contacts.png.png)
 
 ---
 
