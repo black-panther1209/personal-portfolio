@@ -70,31 +70,31 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Home](./screenshots/home.png)
+![Home](./screenshots/home.png.png)
 
 ---
 
 ### 👩‍💻 About Section
 
-![About](./screenshots/about.png)
+![About](./screenshots/about.png.png)
 
 ---
 
 ### 🚀 Skills Section
 
-![Skills](./screenshots/skills.png)
+![Skills](./screenshots/skills.png.png)
 
 ---
 
 ### 📂 Projects Section
 
-![Projects](./screenshots/projects.png)
+![Projects](./screenshots/projects.png.png)
 
  ---
 
 ### 📞 Contact Section
 
-![Contact](./screenshots/contact.png)
+![Contact](./screenshots/contact.png.png)
 
 ---
 
